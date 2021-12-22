@@ -6,5 +6,5 @@ import (
 )
 
 func PrintNow()  {
-	fmt.Println('new tag')
+	fmt.Println("12312312312312123312")
 }
